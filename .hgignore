@@ -1,0 +1,27 @@
+syntax: glob
+
+./.git
+./.settings
+./bin
+./bk
+./checkouts
+./classes
+./gen
+./target
+./test/download
+./test/second
+./doc
+
+*.class
+*.orig
+*.swp
+*.swo
+*.pyc
+*~
+.DS_Store
+.lein-deps-sum
+.lein-failures
+.lein-plugins
+.lein-repl-history
+.netrwhist
+.nrepl-port
